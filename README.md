@@ -7,8 +7,8 @@ My First GitHub project as a fresher Data analyst from Bengaluru
 
  ##skills
  -python:print(),variables,basics syntax
- -Excel basics 
- -SQL basics
+ -Excel: pivot tables,VLOOKUP
+ -SQL:SELECT,WHERE,JOIN
 
  ###CONTACT;
  savaraladinesh@gmail.com 
